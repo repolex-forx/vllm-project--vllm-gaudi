@@ -1,0 +1,11 @@
+{
+  "org": "vllm-project",
+  "repo": "vllm-gaudi",
+  "versions": [
+    {
+      "commit": "8fe21d1af7caa0fdb93ed6e7681c4c8b29c54632",
+      "tag": "",
+      "parsed_at": "2026-11-08T16:36:28.107354+00:00"
+    }
+  ]
+}
