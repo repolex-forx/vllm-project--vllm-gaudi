@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/vllm-project/vllm-gaudi/commit/8fe21d1af7caa0fdb93ed6e7681c4c8b29c54632",
       "git:hexsha": "8fe21d1af7caa0fdb93ed6e7681c4c8b29c54632",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T16:36:28.106748+00:00"
     },
     {
       "@id": "https://repolex.ai/r/vllm-project/vllm-gaudi/commit/3bcafafad509ccd09b91d08193436d539afa6ea6",
